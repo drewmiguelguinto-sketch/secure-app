@@ -9,3 +9,4 @@ This repository demonstrates a DevSecOps CI/CD pipeline using GitHub Actions.
 - SBOM generation (CycloneDX)
 - Artifact storage (scan results, SBOM, vulnerability report, trusted build marker)
 - Multi-job pipeline with enforced dependencies
+Updated on May 9, 2026
