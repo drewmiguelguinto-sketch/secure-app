@@ -1,0 +1,7 @@
+rules:
+  - id: no-hardcoded-secrets
+    patterns:
+      - pattern: $SECRET
+    message: "Hardcoded secrets are not allowed."
+    severity: ERROR
+    languages: [python]
